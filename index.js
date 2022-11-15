@@ -46,4 +46,5 @@ if(score === 3){
   console.log('You know well about me')
 }else{
   console.log('you do not know much about me')
+}
 
