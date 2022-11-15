@@ -11,6 +11,12 @@ var questions = [{
 },{
   question: 'Am i a vegeterian?',
   answer: 'yes'
+},{
+  question: 'What is my age?',
+  answer: '22'
+},{
+  question: 'what is my hometown?',
+  answer: 'akaltara'
 }]
 
 function welcome(){
